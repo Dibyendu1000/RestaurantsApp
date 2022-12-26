@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/restaurants-app/static/js/main.14cdc30d.js",
+    "index.html": "/restaurants-app/index.html",
+    "main.14cdc30d.js.map": "/restaurants-app/static/js/main.14cdc30d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.14cdc30d.js"
+  ]
+}
